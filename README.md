@@ -21,5 +21,6 @@ There is a background service that makes it possible to connect to the backend w
 <img  src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/fail to scan.jpg" data-canonical-src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/fail to scan.jpg" width="200" height="400" />
 </div>
 
-<h4>If there is any assigned product for you that you can deliver, there will be some points on map a scrolled section on the bottom of the map so you can check the details of orders and set delivery code or reject it  .</h4>
+<h4>If there is any assigned orders for you that you can deliver, there will be some points and a route to the customer on the map.</h4>
+<h4>Also there will be a scrolled section on the bottom of the map so you can check the details of orders and set delivery code or reject it.</h4>
 <img  src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/map.jpg" data-canonical-src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/map.jpg" width="200" height="400" />
