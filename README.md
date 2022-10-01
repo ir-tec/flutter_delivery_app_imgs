@@ -28,5 +28,9 @@ There is a background service that makes it possible to connect to the backend w
 <img  src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/records.jpg" data-canonical-src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/records.jpg" width="200" height="400" />
 <h4>In this section user can navigate through  diffrent state of his orders history.</h4>
 <img  src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/records.jpg" data-canonical-src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/records.jpg" width="200" height="400" />
-<h4>Profile.</h4>
+<h4>Profile.</h4> 
+<div>
 <img  src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/profile.jpg" data-canonical-src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/profile.jpg" width="200" height="400" />
+<img  src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/edit-profile.jpg" data-canonical-src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/edit-profile.jpg" width="200" height="400" />
+
+</div>
