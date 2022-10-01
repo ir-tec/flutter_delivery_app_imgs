@@ -24,3 +24,5 @@ There is a background service that makes it possible to connect to the backend w
 <h4>If there is any assigned orders for you that you can deliver, there will be some points and a route to the customer on the map.</h4>
 <h4>Also there will be a scrolled section on the bottom of the map so you can check the details of orders and set delivery code or reject it.</h4>
 <img  src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/map.jpg" data-canonical-src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/map.jpg" width="200" height="400" />
+<h4>In this section user can navigate through  diffrent state of his orders history.</h4>
+<img  src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/records.jpg" data-canonical-src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/records.jpg" width="200" height="400" />
