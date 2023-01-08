@@ -17,7 +17,7 @@ There is a background service that makes it possible to connect to the backend w
 <img  src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/home.jpg" data-canonical-src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/home.jpg" width="200" height="400" />
 <h4>you can actively scan product and if there is a valid qrcode, the product will assign to you .</h4> 
 <div>
-<img  src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/scan_qrcode_1.jpg" data-canonical-src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/scan_qrcode_1.jpg" width="200" height="400" />
+<img  src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/scan.jpg" data-canonical-src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/scan.jpg" width="200" height="400" />
 <img  src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/fail to scan.jpg" data-canonical-src="https://github.com/ir-tec/atra_driver_ScreenShots/blob/main/fail to scan.jpg" width="200" height="400" />
 </div>
 
