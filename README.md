@@ -1,8 +1,7 @@
 # Flutter Delivery app
 
-The Application structure is based on MVVM architecture.
-GetX handles the states, routing and dialogs.
-There is a background service that makes it possible to connect to the backend with a socket for continuously sending the driver location to assign product to it.
+This application employs the Model-View-ViewModel (MVVM) architectural pattern. State management, route navigation, and dialog handling are implemented using the GetX package.
+A background service maintains a persistent socket connection to the backend, enabling real-time transmission of the driver's location for efficient product assignment.
 
 <!-- <div style="width:500px;display:flex;justify-content:center">  -->
 <!-- </div>  -->
